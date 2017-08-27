@@ -1,0 +1,28 @@
+Options +MultiViews +FollowSymlinks
+Options -Indexes
+AddDefaultCharset UTF-8
+RewriteEngine on
+RewriteBase /
+RewriteRule ^contacts$ contacts.php
+RewriteRule ^index$ index.php
+RewriteRule ^services$ services.php
+RewriteRule ^preparation$ preparation.php
+RewriteRule ^employees$ employees.php
+RewriteRule ^info$ info.php
+RewriteRule ^documents$ documents.php
+RewriteRule ^registry$ registry.php
+RewriteRule ^gallery$ gallery.php
+RewriteRule ^news$ news.php
+RewriteRule ^send$ send.php
+RewriteRule ^action$ action.php
+RewriteRule ^thesaurus$ thesaurus.php
+RewriteRule ^tet-a-tet$ tet-a-tet.php
+RewriteRule ^interview_proktolog$ interview_proktolog.php
+RewriteRule ^administration$ administration.php
+RewriteCond %{SCRIPT_FILENAME} !-f
+RewriteCond %{SCRIPT_FILENAME} !-d
+<Files ~ "^\.ht">
+Order allow,deny
+Deny from all
+
+</Files>

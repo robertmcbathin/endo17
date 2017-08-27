@@ -1,0 +1,15 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="4">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1" startPos="0" endPos="0" selMode="0" lang="PHP" encoding="-1" filename="E:\LocalServer\home\endo21\www\docs.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="392" startPos="572" endPos="572" selMode="0" lang="PHP" encoding="-1" filename="E:\LocalServer\home\endo21\www\employees.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="392" startPos="287" endPos="287" selMode="0" lang="PHP" encoding="-1" filename="E:\LocalServer\home\endo21\www\gallery.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1022" startPos="0" endPos="0" selMode="0" lang="PHP" encoding="-1" filename="E:\LocalServer\home\endo21\www\header.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="5439" startPos="5014" endPos="5014" selMode="0" lang="PHP" encoding="-1" filename="E:\LocalServer\home\endo21\www\index.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="5439" startPos="3532" endPos="3532" selMode="0" lang="PHP" encoding="-1" filename="E:\LocalServer\home\endo21\www\preparation.php" />
+            <File firstVisibleLine="54" xOffset="0" scrollWidth="504" startPos="1236" endPos="1236" selMode="0" lang="CSS" encoding="-1" filename="E:\LocalServer\home\endo21\www\css\style.css" />
+            <File firstVisibleLine="49" xOffset="0" scrollWidth="742" startPos="2312" endPos="2312" selMode="0" lang="&#x041E;&#x0431;&#x044B;&#x0447;&#x043D;&#x044B;&#x0439; &#x0422;&#x0435;&#x043A;&#x0441;&#x0442;" encoding="-1" filename="E:\LocalServer\home\endo21\www\css\backgroundstyle.less" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>

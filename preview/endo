@@ -1,0 +1,26 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="6">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="6013" startPos="580" endPos="580" selMode="0" lang="PHP" encoding="-1" filename="C:\Local\home\endo21\www\index.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="5229" startPos="6396" endPos="6396" selMode="0" lang="PHP" encoding="-1" filename="C:\Local\home\endo21\www\info.php" />
+            <File firstVisibleLine="60" xOffset="0" scrollWidth="5250" startPos="12378" endPos="12378" selMode="0" lang="PHP" encoding="-1" filename="C:\Local\home\endo21\www\preparation.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1862" startPos="2503" endPos="2503" selMode="0" lang="PHP" encoding="-1" filename="C:\Local\home\endo21\www\header.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1939" startPos="638" endPos="638" selMode="0" lang="PHP" encoding="-1" filename="C:\Local\home\endo21\www\footer.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="903" startPos="1049" endPos="1049" selMode="0" lang="PHP" encoding="-1" filename="C:\Local\home\endo21\www\employees.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="770" startPos="1037" endPos="1037" selMode="0" lang="PHP" encoding="-1" filename="C:\Local\home\endo21\www\functions.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1232" startPos="1214" endPos="1214" selMode="0" lang="PHP" encoding="-1" filename="C:\Local\home\endo21\www\contacts.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1372" startPos="801" endPos="801" selMode="0" lang="PHP" encoding="-1" filename="C:\Local\home\endo21\www\documents.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1029" startPos="199" endPos="199" selMode="0" lang="PHP" encoding="-1" filename="C:\Local\home\endo21\www\services.php" />
+            <File firstVisibleLine="60" xOffset="0" scrollWidth="2331" startPos="4132" endPos="4132" selMode="0" lang="PHP" encoding="-1" filename="C:\Local\home\rnic21_php\www\index.php" />
+        </mainView>
+        <subView activeIndex="1">
+            <File firstVisibleLine="65" xOffset="0" scrollWidth="497" startPos="2335" endPos="2740" selMode="0" lang="CSS" encoding="-1" filename="C:\Local\home\endo21\www\css\registry_style.css" />
+            <File firstVisibleLine="69" xOffset="0" scrollWidth="1015" startPos="1426" endPos="1426" selMode="0" lang="CSS" encoding="-1" filename="C:\Local\home\endo21\www\css\style.css" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="2807" startPos="222" endPos="222" selMode="0" lang="PHP" encoding="-1" filename="C:\Local\home\endo21\www\registry.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1533" startPos="345" endPos="345" selMode="0" lang="PHP" encoding="-1" filename="C:\Local\home\dstory\www\login.php" />
+            <File firstVisibleLine="87" xOffset="0" scrollWidth="1267" startPos="5652" endPos="5748" selMode="0" lang="PHP" encoding="-1" filename="C:\Local\home\dstory\www\main.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="560" startPos="0" endPos="0" selMode="0" lang="PHP" encoding="-1" filename="U:\home\endo21\www\recaptchalib.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="728" startPos="0" endPos="0" selMode="0" lang="PHP" encoding="-1" filename="C:\Local\home\endo21\www\preloader.php" />
+        </subView>
+    </Session>
+</NotepadPlus>

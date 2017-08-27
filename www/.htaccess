@@ -1,0 +1,15 @@
+Options +MultiViews +FollowSymlinks
+Options -Indexes
+AddDefaultCharset UTF-8
+ErrorDocument 404 /404.php
+RewriteEngine on
+RewriteBase /
+RewriteRule ^index$ index.php
+RewriteRule ^registry$ registry.php
+RewriteCond %{SCRIPT_FILENAME} !-f
+RewriteCond %{SCRIPT_FILENAME} !-d
+<Files ~ "^\.ht">
+Order allow,deny
+Deny from all
+
+</Files>
