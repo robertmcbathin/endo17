@@ -12,6 +12,7 @@
                         <ul>
                             <li><a href="/pdf/patient_rules.pdf" target="_blank">Правила поведения пациентов</a></li>
                             <li><a href="/pdf/about_order.pdf" target="_blank">Порядок предоставления медицинских услуг</a></li>
+                            <li><a href="/registry_rules" target="_blank">Правила записи на прием</a></li>
                         </ul>
                     </div>    
                 </div><!--/.col-md-3-->
